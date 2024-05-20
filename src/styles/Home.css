@@ -1,0 +1,25 @@
+.MainView {
+  margin: 2px;
+  padding: 10px;
+}
+
+.BottomView {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+}
+
+.ButtonView {
+}
+
+.Contact {
+  margin: 20px;
+}
+
+.Home {
+  margin: 20px;
+}
+
+.About {
+  margin: 20px;
+}
